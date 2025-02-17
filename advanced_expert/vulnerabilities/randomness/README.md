@@ -19,6 +19,7 @@
 
 ### cool resources
 
+* **[randao target slot attack analysis, by jtapolcai (2025)](https://ethresear.ch/t/randao-target-slot-attack-analysis/21740)**
 * **[ethereum randomness ](https://eth2book.info/altair/part2/building_blocks/randomness)**
 * **[randao github](https://github.com/randao/randao)**
 * **[exploring the randao game in pos ethereum](https://ethereum.github.io/beaconrunner/notebooks/randao/randao.html)**
